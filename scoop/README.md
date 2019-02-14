@@ -1,0 +1,1 @@
+To load this static frontpage, copy the four iamge files to the `public/static/img/` directory of your Yoda Portal installation. Copy the `static_frontpage.html` html file to the `public/static/` directory of your Yoda Portal installation
